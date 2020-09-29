@@ -1,0 +1,93 @@
+D:\MFP\PharmacyMedicineSupplyMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\MFP\PharmacyMedicineSupplyMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+D:\MFP\PharmacyMedicineSupplyMicroservice\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\MFP\PharmacyMedicineSupplyMicroservice\obj\Debug\netcoreapp3.1\PharmacyMedicineSupplyMicroservice.csprojAssemblyReference.cache
+D:\MFP\PharmacyMedicineSupplyMicroservice\obj\Debug\netcoreapp3.1\PharmacyMedicineSupplyMicroservice.AssemblyInfoInputs.cache
+D:\MFP\PharmacyMedicineSupplyMicroservice\obj\Debug\netcoreapp3.1\PharmacyMedicineSupplyMicroservice.AssemblyInfo.cs
+D:\MFP\PharmacyMedicineSupplyMicroservice\obj\Debug\netcoreapp3.1\PharmacyMedicineSupplyMicroservice.RazorTargetAssemblyInfo.cache
+D:\MFP\PharmacyMedicineSupplyMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\PharmacyMedicineSupplyMicroservice.StaticWebAssets.Manifest.cache
+D:\MFP\PharmacyMedicineSupplyMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\PharmacyMedicineSupplyMicroservice.StaticWebAssets.xml
+D:\MFP\PharmacyMedicineSupplyMicroservice\bin\Debug\netcoreapp3.1\PharmacyMedicineSupplyMicroservice.exe
+D:\MFP\PharmacyMedicineSupplyMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\MFP\PharmacyMedicineSupplyMicroservice\obj\Debug\netcoreapp3.1\PharmacyMedicineSupplyMicroservice.csproj.CopyComplete
+D:\MFP\PharmacyMedicineSupplyMicroservice\bin\Debug\netcoreapp3.1\PharmacyMedicineSupplyMicroservice.deps.json
+D:\MFP\PharmacyMedicineSupplyMicroservice\bin\Debug\netcoreapp3.1\PharmacyMedicineSupplyMicroservice.runtimeconfig.json
+D:\MFP\PharmacyMedicineSupplyMicroservice\bin\Debug\netcoreapp3.1\PharmacyMedicineSupplyMicroservice.runtimeconfig.dev.json
+D:\MFP\PharmacyMedicineSupplyMicroservice\bin\Debug\netcoreapp3.1\PharmacyMedicineSupplyMicroservice.dll
+D:\MFP\PharmacyMedicineSupplyMicroservice\bin\Debug\netcoreapp3.1\PharmacyMedicineSupplyMicroservice.pdb
+D:\MFP\PharmacyMedicineSupplyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\MFP\PharmacyMedicineSupplyMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\MFP\PharmacyMedicineSupplyMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\MFP\PharmacyMedicineSupplyMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\MFP\PharmacyMedicineSupplyMicroservice\obj\Debug\netcoreapp3.1\PharmacyMedicineSupplyMicroservice.dll
+D:\MFP\PharmacyMedicineSupplyMicroservice\obj\Debug\netcoreapp3.1\PharmacyMedicineSupplyMicroservice.pdb
+D:\MFP\PharmacyMedicineSupplyMicroservice\obj\Debug\netcoreapp3.1\PharmacyMedicineSupplyMicroservice.genruntimeconfig.cache
+D:\MFP\PharmacyMedicineSupplyMicroservice\bin\Debug\netcoreapp3.1\log4net.config
+D:\MFP\PharmacyMedicineSupplyMicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+D:\MFP\PharmacyMedicineSupplyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\MFP\PharmacyMedicineSupplyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\MFP\PharmacyMedicineSupplyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\MFP\PharmacyMedicineSupplyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\MFP\PharmacyMedicineSupplyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\MFP\PharmacyMedicineSupplyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\MFP\PharmacyMedicineSupplyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\MFP\PharmacyMedicineSupplyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\MFP\PharmacyMedicineSupplyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\MFP\PharmacyMedicineSupplyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\MFP\PharmacyMedicineSupplyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MFP\PharmacyMedicineSupplyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\MFP\PharmacyMedicineSupplyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\MFP\PharmacyMedicineSupplyMicroservice\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\MFP\PharmacyMedicineSupplyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\MFP\PharmacyMedicineSupplyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\MFP\PharmacyMedicineSupplyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MFP\PharmacyMedicineSupplyMicroservice\obj\Debug\netcoreapp3.1\PharmacyMedicineSupplyMicroservice.csproj.CoreCompileInputs.cache
+D:\MFP\PharmacyMedicineSupplyMicroservice\obj\Debug\netcoreapp3.1\PharmacyMedicineSupplyMicroservice.MvcApplicationPartsAssemblyInfo.cs
+D:\MFP\PharmacyMedicineSupplyMicroservice\obj\Debug\netcoreapp3.1\PharmacyMedicineSupplyMicroservice.MvcApplicationPartsAssemblyInfo.cache
+D:\Copy of Projects\PharmacyMedicineSupplyMicroservice\bin\Debug\netcoreapp3.1\log4net.config
+D:\Copy of Projects\PharmacyMedicineSupplyMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Copy of Projects\PharmacyMedicineSupplyMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Copy of Projects\PharmacyMedicineSupplyMicroservice\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Copy of Projects\PharmacyMedicineSupplyMicroservice\bin\Debug\netcoreapp3.1\PharmacyMedicineSupplyMicroservice.exe
+D:\Copy of Projects\PharmacyMedicineSupplyMicroservice\bin\Debug\netcoreapp3.1\PharmacyMedicineSupplyMicroservice.yaml
+D:\Copy of Projects\PharmacyMedicineSupplyMicroservice\bin\Debug\netcoreapp3.1\PharmacyMedicineSupplyMicroservice.deps.json
+D:\Copy of Projects\PharmacyMedicineSupplyMicroservice\bin\Debug\netcoreapp3.1\PharmacyMedicineSupplyMicroservice.runtimeconfig.json
+D:\Copy of Projects\PharmacyMedicineSupplyMicroservice\bin\Debug\netcoreapp3.1\PharmacyMedicineSupplyMicroservice.runtimeconfig.dev.json
+D:\Copy of Projects\PharmacyMedicineSupplyMicroservice\bin\Debug\netcoreapp3.1\PharmacyMedicineSupplyMicroservice.dll
+D:\Copy of Projects\PharmacyMedicineSupplyMicroservice\bin\Debug\netcoreapp3.1\PharmacyMedicineSupplyMicroservice.pdb
+D:\Copy of Projects\PharmacyMedicineSupplyMicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+D:\Copy of Projects\PharmacyMedicineSupplyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Copy of Projects\PharmacyMedicineSupplyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Copy of Projects\PharmacyMedicineSupplyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Copy of Projects\PharmacyMedicineSupplyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Copy of Projects\PharmacyMedicineSupplyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Copy of Projects\PharmacyMedicineSupplyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Copy of Projects\PharmacyMedicineSupplyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Copy of Projects\PharmacyMedicineSupplyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Copy of Projects\PharmacyMedicineSupplyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\Copy of Projects\PharmacyMedicineSupplyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Copy of Projects\PharmacyMedicineSupplyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Copy of Projects\PharmacyMedicineSupplyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Copy of Projects\PharmacyMedicineSupplyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Copy of Projects\PharmacyMedicineSupplyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Copy of Projects\PharmacyMedicineSupplyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Copy of Projects\PharmacyMedicineSupplyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Copy of Projects\PharmacyMedicineSupplyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Copy of Projects\PharmacyMedicineSupplyMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Copy of Projects\PharmacyMedicineSupplyMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Copy of Projects\PharmacyMedicineSupplyMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Copy of Projects\PharmacyMedicineSupplyMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Copy of Projects\PharmacyMedicineSupplyMicroservice\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Copy of Projects\PharmacyMedicineSupplyMicroservice\obj\Debug\netcoreapp3.1\PharmacyMedicineSupplyMicroservice.csprojAssemblyReference.cache
+D:\Copy of Projects\PharmacyMedicineSupplyMicroservice\obj\Debug\netcoreapp3.1\PharmacyMedicineSupplyMicroservice.AssemblyInfoInputs.cache
+D:\Copy of Projects\PharmacyMedicineSupplyMicroservice\obj\Debug\netcoreapp3.1\PharmacyMedicineSupplyMicroservice.AssemblyInfo.cs
+D:\Copy of Projects\PharmacyMedicineSupplyMicroservice\obj\Debug\netcoreapp3.1\PharmacyMedicineSupplyMicroservice.csproj.CoreCompileInputs.cache
+D:\Copy of Projects\PharmacyMedicineSupplyMicroservice\obj\Debug\netcoreapp3.1\PharmacyMedicineSupplyMicroservice.MvcApplicationPartsAssemblyInfo.cs
+D:\Copy of Projects\PharmacyMedicineSupplyMicroservice\obj\Debug\netcoreapp3.1\PharmacyMedicineSupplyMicroservice.MvcApplicationPartsAssemblyInfo.cache
+D:\Copy of Projects\PharmacyMedicineSupplyMicroservice\obj\Debug\netcoreapp3.1\PharmacyMedicineSupplyMicroservice.RazorTargetAssemblyInfo.cache
+D:\Copy of Projects\PharmacyMedicineSupplyMicroservice\obj\Debug\netcoreapp3.1\PharmacyMedicineSupplyMicroservice.csproj.CopyComplete
+D:\Copy of Projects\PharmacyMedicineSupplyMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\PharmacyMedicineSupplyMicroservice.StaticWebAssets.Manifest.cache
+D:\Copy of Projects\PharmacyMedicineSupplyMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\PharmacyMedicineSupplyMicroservice.StaticWebAssets.xml
+D:\Copy of Projects\PharmacyMedicineSupplyMicroservice\obj\Debug\netcoreapp3.1\PharmacyMedicineSupplyMicroservice.dll
+D:\Copy of Projects\PharmacyMedicineSupplyMicroservice\obj\Debug\netcoreapp3.1\PharmacyMedicineSupplyMicroservice.pdb
+D:\Copy of Projects\PharmacyMedicineSupplyMicroservice\obj\Debug\netcoreapp3.1\PharmacyMedicineSupplyMicroservice.genruntimeconfig.cache
