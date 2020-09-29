@@ -1,26 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Copy of Projects\\PharmacyMedicineSupplyMicroservice\\PharmacyMedicineSupplyMicroservice.csproj": {}
+    "C:\\Users\\Prithwi.PRITHWIMAN\\Desktop\\PharmacyMedicineSupplyFinal\\PharmacyMedicineSupplyMicroservice.csproj": {}
   },
   "projects": {
-    "D:\\Copy of Projects\\PharmacyMedicineSupplyMicroservice\\PharmacyMedicineSupplyMicroservice.csproj": {
+    "C:\\Users\\Prithwi.PRITHWIMAN\\Desktop\\PharmacyMedicineSupplyFinal\\PharmacyMedicineSupplyMicroservice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Copy of Projects\\PharmacyMedicineSupplyMicroservice\\PharmacyMedicineSupplyMicroservice.csproj",
+        "projectUniqueName": "C:\\Users\\Prithwi.PRITHWIMAN\\Desktop\\PharmacyMedicineSupplyFinal\\PharmacyMedicineSupplyMicroservice.csproj",
         "projectName": "PharmacyMedicineSupplyMicroservice",
-        "projectPath": "D:\\Copy of Projects\\PharmacyMedicineSupplyMicroservice\\PharmacyMedicineSupplyMicroservice.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\Copy of Projects\\PharmacyMedicineSupplyMicroservice\\obj\\",
+        "projectPath": "C:\\Users\\Prithwi.PRITHWIMAN\\Desktop\\PharmacyMedicineSupplyFinal\\PharmacyMedicineSupplyMicroservice.csproj",
+        "packagesPath": "C:\\Users\\Prithwi.PRITHWIMAN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Prithwi.PRITHWIMAN\\Desktop\\PharmacyMedicineSupplyFinal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Prithwi.PRITHWIMAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
